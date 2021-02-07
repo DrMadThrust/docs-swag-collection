@@ -18,7 +18,7 @@ Proceed with caution, braincells and muscle memory may be lost by just browsing 
 
 ## Strat Ratings
 
-For browsing and trying experience every strat has been rated in 2 categories: Insanity and Potential
+For browsing and trying experience, every strat has been rated in 2 categories: Insanity and Potential
 
 Insanity classifies the difficulty of a strat according to following table:
 - 0 "What was the dash key again?" aka HmmClueless
