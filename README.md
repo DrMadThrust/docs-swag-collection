@@ -19,15 +19,14 @@ You're gonna find everything, including but not limited to:
 For browsing and trying experience every strat has been rated in 2 categories: Insanity and Potential
 
 Insanity classifies the difficulty of a strat according to following table:
-- 0  "What was the dash key again?" aka HmmClueless
-- 1  "Look guys, I know what a hyper is!"
-- 2  you need to be consistent with mainstream speedtech (wavedashes, supers, ...)
-- 3  mid-tier full game material
-- 4  high-tier full game material/mid-tier IL stuff
-- 5  high-tier IL strats, maybe full game if you need deez frames
-- 6  I don't wanna call this "useable" for ILs anymore but idk how to call this
-- 7  good stuff to bash your head against in checkpoint-ILs
-- 8  useable for crazy-level checkpoint ILs
-- 9  kinda insane, probably only for individual rooms
-- 10 you need to be an actual bot to do this (but still doable)
-- 11 never performed by me in an unspliced attempt
+- 0 "What was the dash key again?" aka HmmClueless
+- 1 "Look guys, I know what a hyper is!"
+- 2 requires mainstream speedtech (hypers, supers, ...) and/or decent execution
+- 3 needs advanced tech (cbs, demo-related tech, ...) and/or good execution
+- 4 hard to get right, but definitely possible
+- 5 very inconsistent and a bit stupid
+- 6 you need to be an actual bot to do this (but still doable)
+- 7 never performed by me in an unspliced attempt
+
+Additonally the Insanity rating is tagged with a + sign after the number if obscure tech is required.
+As obscure tech counts: diagonal coyote frames, multiboosts, reverse cbs
