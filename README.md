@@ -12,7 +12,7 @@ You're gonna find everything, including but not limited to:
  - Absolutely insane fast strats (we're talking like 1k attempts to get it once insane)
  - Game breaking stuff
 
-In case you have questions, suggestions or anything else, contakt me on Discord under DrMadThrust#5786.
+In case you have questions, suggestions or anything else, contact me on Discord under DrMadThrust#5786.
 
 Proceed with caution, braincells and muscle memory may be lost by just browsing this collection.
 
