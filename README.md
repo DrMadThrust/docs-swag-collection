@@ -1,4 +1,4 @@
-# Doc's ultimate collection of swag strats and dumb stuff
+# Doc's Ultimate Collection of Swag Strats and Dumb Stuff
 
 ![gif](https://github.com/DrMadThrust/vid-dump/blob/main/7A-4-000.webp)
 
@@ -11,10 +11,12 @@ You're gonna find everything, including but not limited to:
  - Funi fast strats (some of them may lose time)
  - Absolutely insane fast strats (we're talking like 1k attempts to get it once insane)
  - Game breaking stuff
- 
- Proceed with caution, braincells and muscle memory may be lost by just browsing this collection.
 
-## Strat ratings
+In case you have questions, suggestions or anything else, contakt me on Discord under DrMadThrust#5786.
+
+Proceed with caution, braincells and muscle memory may be lost by just browsing this collection.
+
+## Strat Ratings
 
 For browsing and trying experience every strat has been rated in 2 categories: Insanity and Potential
 
