@@ -19,7 +19,7 @@ You're gonna find everything, including but not limited to:
 For browsing and trying experience every strat has been rated in 2 categories: Insanity and Potential
 
 Insanity classifies the difficulty of a strat according to following table:
-- 0  "What was the dash key again?"
+- 0  "What was the dash key again?" aka HmmClueless
 - 1  "Look guys, I know what a hyper is!"
 - 2  you need to be consistent with mainstream speedtech (wavedashes, supers, ...)
 - 3  mid-tier full game material
