@@ -38,7 +38,7 @@ Potential classifies how much time a strat saves according to following table:
 - 0 breaks even with most common strats
 - -1 breaks even with high level strats
 - -2 faster than IL world record level strats
-- -3 fast as fuk boii
+- -3 fast as frick boii
 
 The ratings have been assigned by a team of independent objective experts (yes, it's all just made up by me).
 If you feel like something is classified wrongly, feel free to write me a verbally abusive and non-constructive message on Discord.
