@@ -1,3 +1,5 @@
 # Doc's ultimate collection of swag strats and dumb stuff
 
-![vid](https://github.com/DrMadThrust/vid-dump/blob/main/ASS-room-but-i-need-help.webm)
+![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start2.webp)
+
+![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start2.webp)
