@@ -4,7 +4,7 @@
 
 ## Intro and Warnings
 
-Welcome to my ultimate collection of every strat i ever clipped!
+Welcome to my ultimate collection of every strat I ever clipped!
 
 You're gonna find everything, including but not limited to:
  - Actual fast strats (rarely)
@@ -30,3 +30,15 @@ Insanity classifies the difficulty of a strat according to following table:
 
 Additonally the Insanity rating is tagged with a + sign after the number if obscure tech is required.
 As obscure tech counts: diagonal coyote frames, multiboosts, reverse cbs
+
+Potential classifies how much time a strat saves according to following table:
+- ?! why would anyone ever attempt this in a run
+- +2 loses time against basic strats
+- +1 breaks even with basic strats
+- 0 breaks even with most common strats
+- -1 breaks even with high level strats
+- -2 faster than IL world record level strats
+- -3 fast as fuk boii
+
+The ratings have been assigned by a team of independent objective experts (yes, it's all just made up by me).
+If you feel like something is classified wrongly, feel free to write me a verbally abusive and non-constructive message on Discord.
