@@ -1,44 +1,58 @@
-# Forsaken City A-side
+# Chapter A-side
 
 ## Start
 
 <details>
   <summary>000</summary>
-  ![gif]
+  ![gif]()
   Description
 </details>
 <details>
   <summary>001</summary>
-  ![gif]
+  ![gif]()
   Description
 </details>
 
-## Crossing
+## CP1
 
 <details>
   <summary>000</summary>
-  ![gif]
+  ![gif]()
   Description
 </details>
 <details>
   <summary>001</summary>
-  ![gif]
+  ![gif]()
   Description
 </details>
 
-## Chasm
+## CP2
 
 <details>
   <summary>000</summary>
-  ![gif]
+  ![gif]()
   Description
 </details>
 <details>
   <summary>001</summary>
-  ![gif]
+  ![gif]()
   Description
 </details>
 
-# Forsaken City B-side
+# Chapter B-side
 
 ## Start
+
+<details>
+  <summary>000</summary>
+  ![gif]()
+  Description
+</details>
+<details>
+  <summary>001</summary>
+  ![gif]()
+  Description
+</details>
+
+---
+[Back to overview](https://github.com/DrMadThrust/docs-swag-collection)
