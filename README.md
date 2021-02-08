@@ -2,6 +2,10 @@
 
 ![gif](https://github.com/DrMadThrust/vid-dump/blob/main/7A-4-000.webp)
 
+## Quicklinks
+
+- [Chapter 1 ABC](https://github.com/DrMadThrust/docs-swag-collection/blob/main/chapters-1.md)
+
 ## Intro and Warnings
 
 Welcome to my ultimate collection of every strat I ever clipped!
