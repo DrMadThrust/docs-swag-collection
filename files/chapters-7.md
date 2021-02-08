@@ -30,7 +30,7 @@
   
   Insanity: 4 Potential: +1
   
-  Reverse coyote demohyper bhop, fly for a bit and then end it off the same way you would end off ASS! Who would have thought that ASS and regular skip could become friends one day. Demo throught the spinner gap highly recommended, but in no way required. Shoutouts to Sleepy__Dan__ for inspiring me to lab this gem.
+  Reverse coyote demohyper bhop, fly for a bit and then end it off the same way you would end off ASS! Who would have thought that ASS and regular skip could become friends one day. Demo through the spinner gap highly recommended, but in no way required. Shoutouts to Sleepy__Dan__ for inspiring me to lab this gem.
 </details>
 
 ---
