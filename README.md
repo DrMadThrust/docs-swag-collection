@@ -1,6 +1,6 @@
 # Doc's Ultimate Collection of Swag Strats and Dumb Stuff
 
-![gif](https://github.com/DrMadThrust/docs-swag-collection/blob/main/vids/7A-4-000.webp)
+![gif](https://github.com/DrMadThrust/docs-swag-collection/blob/main/vids/7A_4_e-06_00.webp)
 
 ## Quicklinks
 
