@@ -34,11 +34,11 @@ For browsing and trying experience, every strat has been rated in 2 categories: 
 
 Insanity classifies the difficulty of a strat according to following table:
 - 0 "What was the dash key again?" aka HmmClueless
-- 1 "Look guys, I know what a hyper is!"
-- 2 Requires mainstream speedtech (hypers, supers, ...) and/or decent execution
-- 3 Needs advanced tech (cbs, demo-related tech, ...) and/or good execution
-- 4 Hard to get right, but definitely possible
-- 5 Very inconsistent and a bit stupid (= jank)
+- 1 Requires mainstream speedtech (hypers, supers, ...) and/or decent execution
+- 2 Needs advanced tech (cbs, demo-related tech, ...) and/or good execution
+- 3 Hard to get right, but definitely possible
+- 4 Pretty bad, wouldn't consider using this for actual runs
+- 5 Very inconsistent and a ridiculously stupid (= jank)
 - 6 You need to be an actual bot to do this (but still doable)
 - 7 Never performed by me in an unspliced attempt
 
