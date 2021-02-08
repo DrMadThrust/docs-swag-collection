@@ -1,0 +1,55 @@
+# Chapter A-side
+
+## Start
+
+<details>
+  <summary>000</summary>
+  ![gif]()
+  Description
+</details>
+<details>
+  <summary>001</summary>
+  ![gif]()
+  Description
+</details>
+
+## CP1
+
+<details>
+  <summary>000</summary>
+  ![gif]()
+  Description
+</details>
+<details>
+  <summary>001</summary>
+  ![gif]()
+  Description
+</details>
+
+## CP2
+
+<details>
+  <summary>000</summary>
+  ![gif]()
+  Description
+</details>
+<details>
+  <summary>001</summary>
+  ![gif]()
+  Description
+</details>
+
+# Chapter B-side
+
+## Start
+
+<details>
+  <summary>000</summary>
+  ![gif]()
+  Description
+</details>
+<details>
+  <summary>001</summary>
+  ![gif]()
+  Description
+</details>
