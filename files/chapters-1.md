@@ -1,7 +1,17 @@
 # Forsaken City
 
-What are you looking for on this page? Dumb strats, TAS-material? I'm afraid zkad broke this chapter already more than I could have ever done it myself.
-So for now this page will stay empty. Maybe someday i will find something dumb to put here...
+## Chasm
+
+<details>
+  <summary>10a</summary>
+  
+  ![gif](https://github.com/DrMadThrust/docs-swag-collection/blob/main/vids/1A_0_10a_00.webp)
+  
+  Insanity: 3 Potential: -1
+  
+  One of your friends recently got Dashless and you're not the cool guy anymore? Assert dominance by showing that you're even less afraid of this corner by straight up yeeting yourself at it.
+  Reverse extend a hyper, dash left (don't buffer) and do a min height cb. If you're good you're even gonna get your dash back to finish this room in style and break even with the regular fast strat.
+</details>
 
 ---
 [Back to overview](https://github.com/DrMadThrust/docs-swag-collection)
