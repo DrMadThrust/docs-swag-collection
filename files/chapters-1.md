@@ -6,7 +6,6 @@
   <summary>000</summary>
   
   ![gif](https://github.com/DrMadThrust/docs-swag-collection/blob/main/vids/7A-4-000.webp)
-  
   Description
 </details>
 <details>
