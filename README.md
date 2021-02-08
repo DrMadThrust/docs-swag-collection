@@ -43,7 +43,7 @@ Insanity classifies the difficulty of a strat according to following table:
 - 7 Never performed by me in an unspliced attempt
 
 Additonally the Insanity rating is tagged with a + sign after the number if obscure tech is required.
-As obscure tech counts: diagonal coyote frames, multiboosts, reverse cbs
+As obscure tech counts: diagonal coyote frames, multiboosts, spike wallbounces, reverse cbs
 
 Potential classifies how much time a strat saves according to following table:
 - ?! Why would anyone ever attempt this in a run
