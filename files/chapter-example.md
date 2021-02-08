@@ -53,3 +53,5 @@
   ![gif]()
   Description
 </details>
+
+[Back to overview](https://github.com/DrMadThrust/docs-swag-collection)
