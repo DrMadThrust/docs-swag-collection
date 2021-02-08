@@ -5,7 +5,7 @@
 <details>
   <summary>10a</summary>
   
-  ![gif](https://github.com/DrMadThrust/docs-swag-collection/blob/main/vids/1A_0_10a_00.webp)
+  ![gif](https://github.com/DrMadThrust/docs-swag-collection/blob/main/vids/1A_2_10a_00.webp)
   
   Insanity: 3 Potential: -1
   
