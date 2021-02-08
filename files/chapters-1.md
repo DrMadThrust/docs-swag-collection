@@ -12,7 +12,6 @@
   <summary>001</summary>
   
   ![gif]()
-  
   Description
 </details>
 
@@ -21,12 +20,12 @@
 <details>
   <summary>000</summary>
   
-  ![gif]()
-  
+  ![gif]() 
   Description
 </details>
 <details>
   <summary>001</summary>
+  
   ![gif]()
   Description
 </details>
@@ -35,11 +34,13 @@
 
 <details>
   <summary>000</summary>
+  
   ![gif]()
   Description
 </details>
 <details>
   <summary>001</summary>
+  
   ![gif]()
   Description
 </details>
@@ -50,11 +51,13 @@
 
 <details>
   <summary>000</summary>
+  
   ![gif]()
   Description
 </details>
 <details>
   <summary>001</summary>
+  
   ![gif]()
   Description
 </details>
