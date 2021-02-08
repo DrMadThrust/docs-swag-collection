@@ -4,7 +4,15 @@
 
 ## Quicklinks
 
-- [Chapter 1 ABC](https://github.com/DrMadThrust/docs-swag-collection/blob/main/chapters-1.md)
+- [Chapters 1](https://github.com/DrMadThrust/docs-swag-collection/blob/main/chapters-1.md)
+- [Chapters 2](https://github.com/DrMadThrust/docs-swag-collection/blob/main/chapters-2.md)
+- [Chapters 3](https://github.com/DrMadThrust/docs-swag-collection/blob/main/chapters-3.md)
+- [Chapters 4](https://github.com/DrMadThrust/docs-swag-collection/blob/main/chapters-4.md)
+- [Chapters 5](https://github.com/DrMadThrust/docs-swag-collection/blob/main/chapters-5.md)
+- [Chapters 6](https://github.com/DrMadThrust/docs-swag-collection/blob/main/chapters-6.md)
+- [Chapters 7](https://github.com/DrMadThrust/docs-swag-collection/blob/main/chapters-7.md)
+- [Chapters 8](https://github.com/DrMadThrust/docs-swag-collection/blob/main/chapters-8.md)
+- [Chapter 9](https://github.com/DrMadThrust/docs-swag-collection/blob/main/chapter-9.md)
 
 ## Intro and Warnings
 
