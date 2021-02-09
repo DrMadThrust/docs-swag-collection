@@ -38,7 +38,7 @@ Insanity classifies the difficulty of a strat according to following table:
 - 2 Needs advanced tech (cbs, demo-related tech, ...) and/or good execution
 - 3 Hard to get right, but definitely possible
 - 4 Pretty bad, wouldn't consider using this for actual runs
-- 5 Very inconsistent and a ridiculously stupid (= jank)
+- 5 Very inconsistent and ridiculously stupid (= jank)
 - 6 You need to be an actual bot to do this (but still doable)
 - 7 Never performed by me in an unspliced attempt
 
