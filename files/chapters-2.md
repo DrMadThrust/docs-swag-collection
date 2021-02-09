@@ -9,7 +9,7 @@
   
   Insanity: 4 Potential: -2
   
-  Enter with a grounded ultra (you might need to strafe left a bit after breaking the block before you wavedash), snag some coyote frames and hope that you hit a good cb. If you do, exit this room with a hyper into the next screen. If you don't, well..., we don't talk about that here.
+  Grounded ultra after entering with a wavedash (you might need to strafe left a bit after breaking the block before you wavedash), snag some coyote frames and hope that you hit a good cb. If you do, exit this room with a hyper into the next screen. If you don't, well..., we don't talk about that here.
 </details>
 
 <details>
