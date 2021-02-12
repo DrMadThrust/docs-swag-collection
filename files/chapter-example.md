@@ -1,3 +1,5 @@
+![png] (https://github.com/DrMadThrust/docs-swag-collection/blob/main/files/fractal2.png)
+
 # Chapter A-side
 
 ## Start
